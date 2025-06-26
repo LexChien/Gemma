@@ -1,0 +1,13 @@
+{
+  "temperature": 0.81,
+  "repetition_penalty": 1.1,
+  "max_tokens": 256,
+  "top_p": 0.9,
+  "top_k": 40,
+  "stop": "User:|Assistant:",
+  "repeat_last_n": 64,
+  "seed": 42,
+  "mirostat": 0,
+  "mirostat_tau": 5,
+  "mirostat_eta": 0.1
+}

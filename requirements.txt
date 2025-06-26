@@ -1,0 +1,19 @@
+# requirements.txt
+
+# 基礎安裝（適用於 CPU / GPU）
+
+transformers
+accelerate
+sseclient
+requests
+gradio
+numpy
+peft
+scikit-learn
+
+# 可選：如果是 macOS Apple Silicon 加速，需加上 torch-metal backend（請個別安裝）
+# torch==2.1.2
+# torchvision==0.16.2
+# torchaudio==2.1.2
+
+# 註：vLLM 須依作業系統與 GPU 支援情況，安裝對應的 torch 版本

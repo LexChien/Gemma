@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++17 -stdlib=libc++ -O3 -DNDEBUG -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o ../../../bin/libggml-blas.dylib -install_name @rpath/libggml-blas.dylib "CMakeFiles/ggml-blas.dir/ggml-blas.cpp.o"  -Wl,-rpath,/Users/lexchien/Documents/LLM/Gemma/gemma.cpp/build/bin ../../../bin/libggml-base.dylib -framework Accelerate
