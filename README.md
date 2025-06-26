@@ -131,10 +131,8 @@ MIT License
 ---
 
 ## 🙋‍♂️ 未來規劃建議
-
-- 將對話記錄與參數儲存搬移至 SQLite / TinyDB
-- 加入語音輸入 / TTS 語音輸出
 - 聯結 RAG 系統外部知識回應
 - 加入用戶身份登入與對話快照切換
 - 整合 OpenAI / Gemini 多模態選項
 
+![](https://api.pcloud.com/getpubthumb?code=XZ7i3u5ZL6489qgfoMLDDpwRbt2uqbpk9DMy&linkpassword=&size=1229x2028&crop=0&type=auto "")
