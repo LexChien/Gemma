@@ -1,4 +1,4 @@
-# Gemma Chatbot v1.0
+# Gemma Chatbot
 
 🦙 **Gemma Chatbot** 是一套以 [Google Gemma QAT 模型](https://ai.google.dev/gemma) 為核心的本地聊天系統，C++ 與 Python 核心開發，透過 Gradio 架設 UI 介面，結合多語言支援、推理參數控制、模式切換與對話記錄等功能，為開發者與研究者提供一個輕量且可擴充的 LLM 操作平台。
 
@@ -36,7 +36,6 @@
 | ✅ 設定儲存與載入           | 可儲存常用參數組合
 | ✅ LLM 伺服器日誌顯示       | 顯示最後 20 行 log 便於除錯
 | ✅ 每回對話記錄保存         | 根據語言自動分檔記錄
-| ✅ footer 隱藏 UI 美化支援   | 無廣告/版權尾段元素
 
 ---
 
