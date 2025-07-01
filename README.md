@@ -126,11 +126,16 @@ $ python gradio_llama_chat.py
 
 ## 📌 License
 
-MIT License
+
+本項目採用 [CC-BY-SA授權](http://creativecommons.org/licenses/by-sa/3.0/).
+<br>
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+
+[![Created Commons License](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
 
 ---
 
-## 🙋‍♂️ 未來規劃建議
+## 🙋‍♂️ 未來規劃
 - 聯結 RAG 系統外部知識回應
 - 加入用戶身份登入與對話快照切換
 - 整合 OpenAI / Gemini 多模態選項
